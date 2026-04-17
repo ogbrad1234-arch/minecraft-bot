@@ -17,9 +17,10 @@ Built with http://Node.js + mineflayer. Open source, free to use.
 
 *Github:* [https://github.com/ogbrad1234-arch/minecraft-bot/]  
 
-========================================
-Termux for: pkg
-Raspberry pi/Linux for: apt
+===========================
+
+- Termux for: pkg
+- Raspberry pi/Linux for: apt
 
 *Setup:* 
 -  pkg update && pkg upgrade
