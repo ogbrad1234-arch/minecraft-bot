@@ -11,7 +11,8 @@ server will not detect the bot, when the bot join your server
 Built with http://Node.js + mineflayer. Open source, free to use. 
 
 *Github:* [https://github.com/ogbrad1234-arch/minecraft-bot/]  
-*Setup:* ``
-         `
+*Setup:* 
+• git clone https://github.com/ogbrad1234-arch/minecraft-bot.git
+• 
 
 No more "server stopped" pain. Just pure grind.  
