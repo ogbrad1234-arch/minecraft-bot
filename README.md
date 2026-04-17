@@ -36,6 +36,7 @@ Perfect for:
 ```bash
 -  pkg update && pkg upgrade
 -  pkg install nodejs git
+-  npm install mineflayer
 -  git clone https://github.com/ogbrad1234-arch/minecraft-bot.git
 -  cd minecraft-bot
 -  npm install
