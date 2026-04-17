@@ -5,10 +5,10 @@ function createBot() {
   console.log('[BOT] Creating bot...')
 
   const bot = mineflayer.createBot({
-    host: 'azurion200266.mcsh.io',
-    port: 25565,
-    username: 'Nodejs',
-    version: '1.21.4'
+    host: 'your ip',
+    port: your port,
+    username: 'name your bot',
+    version: 'put any minecraft version'
   })
 
   bot.loadPlugin(pathfinder)
@@ -34,7 +34,7 @@ function createBot() {
     startBehavior(bot)
 
     setTimeout(() => {
-      console.log('[BOT] ⏹️ 14 seconds up, disconnecting...')
+      console.log('[BOT] ⏹️ 21 seconds up, disconnecting...')
       bot.quit()
     }, 21000)
   })
