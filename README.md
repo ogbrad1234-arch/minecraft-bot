@@ -1,28 +1,39 @@
-• An Open source Lightweight Smart AFK Bot for Minecraft Java/Bedrock* 
+# 🤖 Minecraft Bot (Node.js + Mineflayer)
 
-Best for Economy, Roleplaying, Smp,
-Can keep your server 24/7 Online without a hussle
+> A fast, simple, and lightweight Minecraft bot built for automation, testing, and server interaction. Undetectable for every strict Free/Paid Minecraft Server hosting 
 
-*Note:*
-Server will not detect the bot, when the bot join your server, and it is not affect the server performance
+---
 
-*What it does:*  
-- *Smart AFK*: Moves, jumps, looks around.
-- *Anti-kick*: Bypasses idle timeouts on most free hosts like Aternos, Minehut, etc.  
-- *Lightweight*: Runs on Termux/raspberry pi/ or any potato PC. No VPS needed.  
-- *Auto-reconnect*: to bypass Minecraft free host built in afk detection.  
-- *Chat commands*: auto /register and /login every time you turn on the bot
-  
-Built with http://Node.js + mineflayer. Open source, free to use. 
+## ⚡ What is this?
 
-*Github:* [https://github.com/ogbrad1234-arch/minecraft-bot/]  
+This is a **Minecraft Java/Bedrock Edition bot** made with Node.js that can:
+- Join servers automatically
+- Make your server run 24/7 Online
+- Run (Termux / PC / VPS)
+- Be easily customized
 
-===========================
+Perfect for:
+- AFK accounts 💤
+- Server testing 🧪
+- Automation experiments ⚙️
+- Minecraft Server/SMP
+---
 
-- Termux for: pkg
-- Raspberry pi/Linux for: apt
+## 🚀 Features
 
-*Setup:* 
+✨ Auto join server  
+🛡️ Undetectable (safe)  
+🔁 Auto reconnect (optional)  
+📱 Works on Android (Termux)  
+⚡ Lightweight & fast  
+🧠 Easy to edit for beginners  
+
+---
+
+## 📦 Installation
+
+### 1. Install + Node.js + Git
+```bash
 -  pkg update && pkg upgrade
 -  pkg install nodejs git
 -  git clone https://github.com/ogbrad1234-arch/minecraft-bot.git
@@ -30,4 +41,8 @@ Built with http://Node.js + mineflayer. Open source, free to use.
 -  npm install
 -  node bot.js
 
-No more "server stopped" pain. Just pure grind.  
+Termux for: pkg
+Raspberry pi/Linux for: apt
+
+Kindly edit the bot.js before you run node bot.js, and put your ip and port
+-  nano bot.js
